@@ -1,6 +1,4 @@
 
-var spotifyKey = "93775f52de654485b8dab1a3f19bc469"
-
 $(function(){
 
   $("#wordSubmit").click(function(){
